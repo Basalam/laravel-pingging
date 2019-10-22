@@ -1,11 +1,10 @@
-# Very short description of the package
+# Basalam Pingging
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/basalam/pingging.svg?style=flat-square)](https://packagist.org/packages/basalam/pingging)
-[![Build Status](https://img.shields.io/travis/basalam/pingging/master.svg?style=flat-square)](https://travis-ci.org/basalam/pingging)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/basalam/pingging.svg?style=flat-square)](https://packagist.org/packages/basalam/pingging) 
 [![Quality Score](https://img.shields.io/scrutinizer/g/basalam/pingging.svg?style=flat-square)](https://scrutinizer-ci.com/g/basalam/pingging)
 [![Total Downloads](https://img.shields.io/packagist/dt/basalam/pingging.svg?style=flat-square)](https://packagist.org/packages/basalam/pingging)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+Ping updates to search engines
 
 ## Installation
 
@@ -27,27 +26,6 @@ composer require basalam/pingging
 composer test
 ```
 
-### Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-### Security
-
-If you discover any security related issues, please email mahdi.majidzadeh@gmail.com instead of using the issue tracker.
-
-## Credits
-
-- [Mahdi Majidzadeh](https://github.com/basalam)
-- [All Contributors](../../contributors)
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).

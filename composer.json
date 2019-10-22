@@ -3,9 +3,11 @@
     "description": "Search Engine Ping",
     "keywords": [
         "basalam",
-        "pingging"
+        "ping",
+        "laravel",
+        "seo"
     ],
-    "homepage": "https://github.com/basalam/pingging",
+    "homepage": "https://github.com/basalam/laravel-pingging",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -17,7 +19,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "illuminate/support": "5.8.*"
+        "illuminate/support": "^5.8.*||^6.*"
     },
     "require-dev": {
         "orchestra/testbench": "3.8.*",

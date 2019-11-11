@@ -14,14 +14,12 @@ class PinggingServiceProvider extends ServiceProvider
         /*
          * Optional methods to load your package assets
          */
-        // $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'pingging');
-        // $this->loadViewsFrom(__DIR__.'/../resources/views', 'pingging');
-        // $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
-        // $this->loadRoutesFrom(__DIR__.'/routes.php');
+        $this->loadViewsFrom(__DIR__.'/resources/views', 'pingging');
 
         if ($this->app->runningInConsole()) {
             $this->publishes([
-                __DIR__.'/../config/config.php' => config_path('pingging.php'),
+                __DIR__.'/
+                config/config.php' => config_path('pingging.php'),
             ], 'config');
 
             // Publishing the views.

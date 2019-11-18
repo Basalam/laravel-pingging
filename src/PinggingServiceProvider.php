@@ -6,7 +6,6 @@ use Illuminate\Support\ServiceProvider;
 
 class PinggingServiceProvider extends ServiceProvider
 {
-
     public function boot()
     {
         $this->loadViewsFrom(__DIR__.'/resources/views', 'pingging');

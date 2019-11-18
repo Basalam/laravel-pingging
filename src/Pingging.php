@@ -8,8 +8,8 @@ class Pingging
     {
         $services = config('pingging.services');
 
-        $xml = $this->generateXML( $this->title,  $this->url);
-        
+        $xml = $this->generateXML($this->title, $this->url);
+
         foreach ($services as $service) {
             $this->send($service, $xml);
         }
@@ -19,7 +19,7 @@ class Pingging
 
     private function generateXML($title, $url)
     {
-        return view('pigging::ping',  [
+        return view('pigging::ping', [
             'title' => $title,
             'url'   => $url,
         ])->render();

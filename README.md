@@ -1,8 +1,7 @@
 # Basalam Pingging
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/basalam/pingging.svg?style=flat-square)](https://packagist.org/packages/basalam/pingging) 
-[![Quality Score](https://img.shields.io/scrutinizer/g/basalam/laravel-pingging/.svg?style=flat-square)](https://scrutinizer-ci.com/g/basalam/laravel-pingging/)
-[![Total Downloads](https://img.shields.io/packagist/dt/basalam/pingging.svg?style=flat-square)](https://packagist.org/packages/basalam/pingging)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/basalam-dev/pingging.svg?style=flat-square)](https://packagist.org/packages/basalam/pingging)
+[![Total Downloads](https://img.shields.io/packagist/dt/basalam-dev/pingging.svg?style=flat-square)](https://packagist.org/packages/basalam/pingging)
 
 Ping updates to search engines
 

@@ -10,7 +10,7 @@ Ping updates to search engines
 You can install the package via composer:
 
 ```bash
-composer require basalam/pingging
+composer require basalam-dev/pingging
 ```
 
 ## Usage
